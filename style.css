@@ -2,19 +2,21 @@
     float: left;
     width: 33.33%;
     border: 5px;
+    column-gap: 5px;
   }
 
   .column2 {
     float: left;
     width: 100%;
     border: 5px;
-    
+    column-gap: 5px;
   }
   
   .column3 {
     float: left;
     width: 50%;
     border: 5px;
+    column-gap: 5px;
   }
     
   .column4 {
@@ -23,7 +25,9 @@
     border: 5px;
   }
   .row{
+    width: 100%;
     border: 100px;
+    row-gap: 5px;
   } 
  
   
