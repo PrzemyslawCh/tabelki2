@@ -1,0 +1,32 @@
+.column1 {
+    float: left;
+    width: 33.33%;
+    border: 5px;
+  }
+
+  .column2 {
+    float: left;
+    width: 100%;
+    border: 5px;
+    
+  }
+  
+  .column3 {
+    float: left;
+    width: 50%;
+    border: 5px;
+  }
+    
+  .column4 {
+    float: left;
+    width: 20%;
+    border: 5px;
+  }
+  .row{
+    border: 100px;
+  } 
+ 
+  
+  
+  
+  
