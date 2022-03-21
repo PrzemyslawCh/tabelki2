@@ -17,7 +17,7 @@
     border: 5px;
     
   }
-    
+   
   .column4 {
     float: left;
     width: 20%;
@@ -44,7 +44,9 @@
     row-gap: 5px;
   }
  
-  
+  table{
+    width: 100%;
+  }
   
   
   
