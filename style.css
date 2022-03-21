@@ -1,11 +1,11 @@
 
- table{
+ .table{
   width: 100%;
   text-align: center;
 }
 .box1 {
     display: inline-block;
-    width: 33.33%;
+    width: 32%;
     margin-bottom: 5px;
     
   }
@@ -17,13 +17,13 @@
   }
   .box3 {
     display: inline-block;
-    width: 50%;
+    width: 49%;
     margin-bottom: 5px;
     
   }
   .box4 { 
     display: inline-block;
-    width: 50%;
+    width: 19%;
     margin-bottom: 5px;
     
   }
