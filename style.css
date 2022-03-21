@@ -2,37 +2,47 @@
     float: left;
     width: 33.33%;
     border: 5px;
-    column-gap: 5px;
-    gap: 5px;
+    
   }
 
   .column2 {
     float: left;
     width: 100%;
     border: 5px;
-    column-gap: 5px;
-    gap: 5px;
+    
   }
-  
   .column3 {
     float: left;
     width: 50%;
     border: 5px;
-    column-gap: 5px;
-    gap: 5px;
+    
   }
     
   .column4 {
     float: left;
     width: 20%;
     border: 5px;
-    gap: 5px;
   }
-  .row{
+  .row1{
     width: 100%;
-    border: 100px;
+    border: 5px;
     row-gap: 5px;
   } 
+  .row2{
+    width: 100%;
+    border: 5px;
+    row-gap: 5px;
+  }
+  .row3{
+    width: 100%;
+    border: 5px;
+    row-gap: 5px;
+  }
+  .row4{
+    width: 100%;
+    border: 5px;
+    row-gap: 5px;
+  }
  
   
   
