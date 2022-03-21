@@ -1,52 +1,35 @@
-.column1 {
-    float: left;
+
+ table{
+  width: 100%;
+  text-align: center;
+}
+.box1 {
+    display: inline-block;
     width: 33.33%;
-    border: 5px;
+    margin-bottom: 5px;
     
   }
 
-  .column2 {
-    float: left;
+  .box2 {
+
     width: 100%;
-    border: 5px;
+    margin-bottom: 5px;
+  }
+  .box3 {
+    display: inline-block;
+    width: 50%;
+    margin-bottom: 5px;
     
   }
-  .column3 {
-    float: left;
+  .box4 { 
+    display: inline-block;
     width: 50%;
-    border: 5px;
+    margin-bottom: 5px;
     
   }
    
-  .column4 {
-    float: left;
-    width: 20%;
-    border: 5px;
-  }
-  #row1{
-    width: 100%;
-    border: 5px;
-    row-gap: 5px;
-  } 
-  #row2{
-    width: 100%;
-    border: 5px;
-    row-gap: 5px;
-  }
-  #row3{
-    width: 100%;
-    border: 5px;
-    row-gap: 5px;
-  }
-  #row4{
-    width: 100%;
-    border: 5px;
-    row-gap: 5px;
-  }
+
  
-  table{
-    width: 100%;
-  }
   
   
   
